@@ -18,7 +18,7 @@ embed_model = HuggingFaceEmbeddings(
 )
 
 vectorstore = FAISS.load_local(
-    "vectorstore",
+    "Streamlit_App/vectorstore",
     embed_model,
     allow_dangerous_deserialization=True
 )
