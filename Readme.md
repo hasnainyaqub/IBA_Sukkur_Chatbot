@@ -24,7 +24,7 @@
 | **Backend** | FastAPI, Python |
 | **AI / NLP** | LangChain, HuggingFace Embeddings, Groq LLM |
 | **Vector Store** | FAISS |
-| **Frontend** | Streamlit |
+| **Frontend** | React |
 
 ---
 
